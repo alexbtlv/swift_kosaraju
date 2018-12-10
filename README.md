@@ -20,8 +20,11 @@ Kosaraju's algorithm works as follows:
 
 ### The output
 ---
+
 ![sccs_graph][sccs_graph]
+
 ##[5,3,3]
+
 
 ### The perfomance
 
