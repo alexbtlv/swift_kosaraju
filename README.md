@@ -23,7 +23,7 @@ Kosaraju's algorithm works as follows:
 
 ![sccs_graph][sccs_graph]
 
-##[5,3,3]
+## [5,3,3]
 
 
 ### The perfomance
