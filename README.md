@@ -1,16 +1,16 @@
 # Kosaraju's Algorithm to find SCCs in a directed graph.
----
+
 Kosaraju's algorithm is a linear time algorithm to find the strongly connected components of a directed graph.
 
 
 ### The input
----
+
 Our exapmle graph looks like this
 
 ![initial_graph][initial_graph]
 
 ### The algorithm
----
+
 Kosaraju's algorithm works as follows:
 * Given G be a directed graph.
 * Compute Grev – a reversed vesrion of G.
@@ -19,7 +19,6 @@ Kosaraju's algorithm works as follows:
 * Return an array contains numbers of SCCs.
 
 ### The output
----
 
 ![sccs_graph][sccs_graph]
 
