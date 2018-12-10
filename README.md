@@ -2,5 +2,6 @@
 
 ### Our exapmle graph looks like this
 
-![alt text][assets/initial_graph.png]
+![initial_graph][initial_graph]
 
+[initial_graph]: https://github.com/alexbtlv/swift_kosaraju/blob/master/assets/initial_graph.png "Graph"
